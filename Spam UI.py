@@ -270,6 +270,7 @@ elif sidebar_option == "ℹ️ About":
         - **Wasif Sohail**
         - **Email**: wasifsohail66@gmail.com
         - **LinkedIn**: https://www.linkedin.com/in/wasif-sohail-4381602b4
+        - **GitHub**: https://github.com/WasifSohail5
 
         ## Future Improvements:
         - **Model Improvement**: Explore advanced models like Neural Networks for better classification.
