@@ -1,4 +1,3 @@
-````markdown
 # Spam Shield - Email Spam Classifier
 
 Spam Shield is a machine learning-based web application that classifies emails as spam or ham (not spam). It uses three different machine learning models to ensure accurate classification and is built with Streamlit for an interactive web interface.
